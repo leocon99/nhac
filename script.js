@@ -34,7 +34,7 @@ $(function()
 		artist: "Jack, K-ICM",
 		name: "Em Gì Ơi",
 		url: "Musics/Em-Gi-Oi-Jack-K-ICM.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "https://raw.githubusercontent.com/leocon99/image/master/bg.jpg"
 	}, {
 		artist: "Long nón lá ft Masew",
 		name: "Hành lang cũ (Hạ nhớ)",
