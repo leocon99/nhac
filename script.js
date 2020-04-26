@@ -60,6 +60,11 @@ $(function()
 		name: "Bánh mì không",
 		url: "Musics/Banh-Mi-Khong-Dat-G-DuUyen.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"	
+	}, {
+		artist: "Chilles",
+		name: "Vùng ký ức",
+		url: "Musics/VungKyUc-Chillies-6241566.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"			
 	}];
 	
 	function shuffle(a) {
